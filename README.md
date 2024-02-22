@@ -1,1 +1,3 @@
 # Patterns-DSA-SUPREME2.0
+
+I will upload all the patterns related questions here...
